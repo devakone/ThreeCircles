@@ -1,46 +1,26 @@
 ThreeCircles: step by step tutorial
 --------------------------
 This github repository holds all the step by step tutorial to illustrate how to use 
-3musket33rs html5-mobile-scaffolding Grails plugin. 
+[3musket33rs](http://3musket33rs.github.com/) html5-mobile-scaffolding Grails plugin. 
 
 Do you want to see step by step how to build a single page web app? This workshop was presented at [ConFESS](https://2013.con-fess.com/)
 with the following abstract:
-*Hybrid Mobile App in minutes not days
-Abstract
+***Hybrid Mobile App in minutes not days***
+*Abstract*
 
-Can you build your own version of Foursquare in minutes? Yes, you can. 
+*Can you build your own version of Foursquare in minutes? Yes, you can.*
 
-To survive offline your presentation logic should reside on the client. Using HTML5 power and jQuery mobile responsive UI your web app becomes Mobile. 
+*To survive offline your presentation logic should reside on the client. Using HTML5 power and jQuery mobile responsive UI your web app becomes Mobile.*
 
-Ready to take the mobile challenges: geolocation, offline caching, data synchronization, server side event push, camera and packaging as Hybrid using PhoneGap. 
+*Ready to take the mobile challenges: geolocation, offline caching, data synchronization, server side event push, camera and packaging as Hybrid using PhoneGap.*
 
-At the end of the session, you will have a clone of Foursquare on your mobile, with a REST backend in Grails running on the cloud. All that with one goal in mind: have fun! 
-*
+*At the end of the session, you will have a clone of Foursquare on your mobile, with a REST backend in Grails running on the cloud. All that with one goal in mind: have fun!* 
 
 You will find associated presentation at [http://corinnekrych.github.com/confess/](http://corinnekrych.github.com/confess/)
 
-Speakers
-- [Corinne Krych](http://corinnekrych.github.com/)
-- [Fabrice Matrat](http://fabricematrat.github.com/)
- 
-We're presenting you the work done by [3musket33rs](http://3musket33rs.github.com/) team. 
-
-Special thanks to [Mathieu Bruyen](https://github.com/mathbruyen) for his cool proposal on CSS and his [ongoing work on file upload](http://blog.mais-h.eu/blog/2013/03/16/caching-images-in-a-grails-plus-mongodb-plus-angularjs-application/)
-
 ## Setup
 ### GitHub Repos
-#### With Confess VM Environment
-In the vm, given to you, you will find in ~/work a clone of this repository and 3musket33rs plugins
-Please update this version
-```java
-cd ~/work/html5-scaffolding-plugin
-git pull
-cd ~/work/ThreeCircles
-git pull
-```
-
-#### Without
-If you do not have the confess vm environment, fork or clone this repo but also the 3musket33rs plugins
+Fork or clone this repo but also the 3musket33rs plugins
 ```java
 git clone https://github.com/3musket33rs/html5-mobile-scaffolding
 git clone https://github.com/3musket33rs/phonegapbuild.git
