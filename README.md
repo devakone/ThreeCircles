@@ -1,7 +1,21 @@
-ThreeCircles: step by step tutorial for [ConFESS](https://2013.con-fess.com/)
+ThreeCircles: step by step tutorial
 --------------------------
-This github repository holds all the step by step tutorial to build a clone of Foursquare in a few minutes. 
-The application we're going to build will be named ThreeCircles ;-)
+This github repository holds all the step by step tutorial to illustrate how to use 
+3musket33rs html5-mobile-scaffolding Grails plugin. 
+
+Do you want to see step by step how to build a single page web app? This workshop was presented at [ConFESS](https://2013.con-fess.com/)
+with the following abstract:
+*Hybrid Mobile App in minutes not days
+Abstract
+
+Can you build your own version of Foursquare in minutes? Yes, you can. 
+
+To survive offline your presentation logic should reside on the client. Using HTML5 power and jQuery mobile responsive UI your web app becomes Mobile. 
+
+Ready to take the mobile challenges: geolocation, offline caching, data synchronization, server side event push, camera and packaging as Hybrid using PhoneGap. 
+
+At the end of the session, you will have a clone of Foursquare on your mobile, with a REST backend in Grails running on the cloud. All that with one goal in mind: have fun! 
+*
 
 You will find associated presentation at [http://corinnekrych.github.com/confess/](http://corinnekrych.github.com/confess/)
 
