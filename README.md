@@ -11,11 +11,8 @@ with the following abstract:
 *Abstract*
 
 *Can you build your own version of Foursquare in minutes? Yes, you can.*
-
 *To survive offline your presentation logic should reside on the client. Using HTML5 power and jQuery mobile responsive UI your web app becomes Mobile.*
-
 *Ready to take the mobile challenges: geolocation, offline caching, data synchronization, server side event push, camera and packaging as Hybrid using PhoneGap.*
-
 *At the end of the session, you will have a clone of Foursquare on your mobile, with a REST backend in Grails running on the cloud. All that with one goal in mind: have fun!* 
 
 You will find associated presentation at [http://corinnekrych.github.com/confess/](http://corinnekrych.github.com/confess/)
