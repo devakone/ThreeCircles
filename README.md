@@ -8,8 +8,6 @@ with the following abstract:
 
 ***Hybrid Mobile App in minutes not days***
 
-*Abstract*
-
 *Can you build your own version of Foursquare in minutes? Yes, you can.*
 *To survive offline your presentation logic should reside on the client. Using HTML5 power and jQuery mobile responsive UI your web app becomes Mobile.*
 *Ready to take the mobile challenges: geolocation, offline caching, data synchronization, server side event push, camera and packaging as Hybrid using PhoneGap.*
