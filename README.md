@@ -5,7 +5,9 @@ This github repository holds all the step by step tutorial to illustrate how to 
 
 Do you want to see step by step how to build a single page web app? This workshop was presented at [ConFESS](https://2013.con-fess.com/)
 with the following abstract:
+
 ***Hybrid Mobile App in minutes not days***
+
 *Abstract*
 
 *Can you build your own version of Foursquare in minutes? Yes, you can.*
